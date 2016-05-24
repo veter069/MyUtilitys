@@ -1,0 +1,9 @@
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\bin\Debug\MyUtilitys.exe.config
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\bin\Debug\MyUtilitys.exe
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\bin\Debug\MyUtilitys.pdb
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.csprojResolveAssemblyReference.cache
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.MainForm.resources
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.Properties.Resources.resources
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.csproj.GenerateResource.Cache
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.exe
+E:\OneDrive\Projects\CSharpProjects\MyUtilitys\MyUtilitys\obj\Debug\MyUtilitys.pdb
