@@ -1,5 +1,5 @@
 # MyUtilitys
-Password generator, coverter and some basic utilitys
+Password generator, converter and some basic utilitys
 
 ![alt tag](http://i7.5cm.ru/i/pxws.png)
 ![alt tag](http://i7.5cm.ru/i/lHmK.png)
